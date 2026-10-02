@@ -17,3 +17,10 @@ A [Yazi](https://github.com/sxyazi/yazi) plugin for navigating Windows drives up
   ]
   ```
 3. Restart Yazi
+
+
+<center>
+
+![Video demo.](Video.gif)
+
+</center>
